@@ -10,6 +10,7 @@ using namespace std;
 
 class HandilingDish {
 public:
+    //hola como vas?
     HandilingDish();
     Dish* findDish(std::string );
     bool addDish(string id, string name, int calories, bool vegetarian, double valor);
