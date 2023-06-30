@@ -1,0 +1,3 @@
+C:/Users/hhab1/Documents/CLionProjects/HandingDish/cmake-build-debug/CMakeFiles/HandingDish.dir
+C:/Users/hhab1/Documents/CLionProjects/HandingDish/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hhab1/Documents/CLionProjects/HandingDish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
