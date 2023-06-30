@@ -1,7 +1,6 @@
 #include <iostream>
 #include "HandilingDish.h"
 using namespace std;
-//holahtgfyufyuwef hhfhbfb vida triste -__-
 //<<<>>> aveces sueño despierta sol::
 int main() {
 HandilingDish *hd=new HandilingDish();
