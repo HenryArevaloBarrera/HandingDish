@@ -1,8 +1,7 @@
 #include <iostream>
 #include "HandilingDish.h"
 using namespace std;
-//holahtgfyufyuwef hhfhbfb jwddbduibidbdjcbdjbjcb
-//<<<>>> aveces sueño despierta
+//<<<>>> aveces sueño despierta sol::
 int main() {
 HandilingDish *hd=new HandilingDish();
 hd->addDish("233","jdfj",23,false,50);
