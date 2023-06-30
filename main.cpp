@@ -2,7 +2,7 @@
 #include "HandilingDish.h"
 using namespace std;
 //holahtgfyufyuwef hhfhbfb
-//<<<>>>
+//<<<>>> aveces sueño despierta
 int main() {
 HandilingDish *hd=new HandilingDish();
 hd->addDish("233","jdfj",23,false,50);
